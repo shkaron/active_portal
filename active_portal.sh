@@ -1,4 +1,3 @@
-  GNU nano 5.8                                                                 iptables_usage.sh                                                                            
 #!/bin/bash
 
 
